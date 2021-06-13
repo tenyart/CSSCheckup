@@ -1,0 +1,28 @@
+.wrapper{
+    margin: 5px;
+}
+
+.assignment{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    background-color: lightgrey;
+    border: 3px solid navy;
+}
+
+.family h1{
+    text-align: center;
+    font-weight: bold;
+    border-style: solid;
+    border-color: navy;
+}
+
+.family-pic h2{
+    text-align: center;
+    text-emphasis-color: navy;
+    font-size: inherit;
+    border-style: none;
+    background-color: turquoise;
+    width: 75%;
+}
